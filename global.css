@@ -16,6 +16,7 @@
 #search_bar {
     width: 90vw;
     height: 60px;
+    outline: none;
 }
 #search_bar::placeholder{
     font-size: 30px;
